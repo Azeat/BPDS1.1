@@ -1,7 +1,7 @@
 #BPDS Project - To-Do List with Trash
 
 A web application developed using **Next.js** and **TypeScript** for managing daily tasks, featuring a trash system, task restoration, and an interactive design.
-
+holaa
 ---
 
 ## 👥 Team Members
@@ -9,7 +9,7 @@ A web application developed using **Next.js** and **TypeScript** for managing da
 * María Celeste Bonilla Jaraba
 * Abraham Marín 
 * Jayri Nicole Barreto Polo
-* Andrés Camilo Zea Tarazona
+* Andrés Camilo Zea Tarazona 
 
 ---
 
